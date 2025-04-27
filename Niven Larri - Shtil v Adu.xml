@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Штиль в аду — Ларрі Нівен</title>
+    <link>https://akniga.org/niven-larri-shtil-v-adu-1</link>
+    <description>Аудіокнига з akniga.org</description>
+    <language>ru-ru</language>
+    <item>
+      <title>Глава 1</title>
+      <enclosure url="https://storage-4.akniga.org/narrator/2024/03/07/xxxxxx.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>Глава1</guid>
+      <pubDate>Sun, 28 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+    <!-- Додати більше глав тут за потреби -->
+  </channel>
+</rss>
